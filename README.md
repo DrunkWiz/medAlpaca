@@ -96,7 +96,8 @@ We will persistently update and refine the dataset, and we welcome everyone to c
 | MEDIQA               | [original](https://osf.io/fyg46/?view_only=), [preprocessed](https://huggingface.co/datasets/medalpaca/medical_meadow_mediqa) |  2208    |  2208 |
 | CORD-19              | [original](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge ), [preprocessed](https://huggingface.co/datasets/medalpaca/medical_meadow_cord19) |  1056660    |  50000 |
 | MMMLU               | [original](https://github.com/hendrycks/test), [preprocessed](https://huggingface.co/datasets/medalpaca/medical_meadow_mmmlu) |  3787    |  3787 |
-| Pubmed Health Advice | [original](https://aclanthology.org/D19-1473/), [preprocessed](vhuggingface.co/datasets/medalpaca/health_advice) |  10178    |  10178 |
+| MedQA               | [original](https://github.com/jind11/MedQA), [preprocessed](https://huggingface.co/datasets/medalpaca/medical_meadow_mmmlu) |  10178    |   |                                               |
+| Pubmed Health Advice | [original](https://aclanthology.org/D19-1473/) |  10178    |  10178 |
 | Pubmed Causal               | [original](https://aclanthology.org/2020.coling-main.427/    ), [preprocessed](https://huggingface.co/datasets/medalpaca/medical_meadow_pubmed_causal) |  2446    |  2446 |
 | ChatDoctor               | [original](https://github.com/Kent0n-Li/ChatDoctor  ) |  215000    |  10000 |
 | OpenAssistant | [original](https://huggingface.co/OpenAssistant) |  9209   | 9209     |
